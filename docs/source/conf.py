@@ -26,14 +26,14 @@ from recommonmark.parser import CommonMarkParser
 html_theme = "sphinx_rtd_theme"
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
-project = 'lrlkjtdevops'
+project = 'devops-theory'
 copyright = '2019, hanzhilong'
 author = 'hanzhilong'
 
 # The short X.Y version
 version = ''
 # The full version, including alpha/beta/rc tags
-release = 'Beta0.4.0'
+release = 'Beta0.1.0'
 
 
 # -- General configuration ---------------------------------------------------
