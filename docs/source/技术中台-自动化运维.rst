@@ -8,6 +8,7 @@
    
    自动化运维的发展趋势
    自动化测试
-   自动化发布
+   jenkins_theory
+   jenkins_pdd
    自动化报警
 
